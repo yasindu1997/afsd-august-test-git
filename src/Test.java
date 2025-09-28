@@ -23,6 +23,8 @@ public class Test {
             kudu = kudu / 2;
         }
 
+        System.out.println("Hiiii....");
+
         System.out.println("Total income is : " + (salary + kudu + land));
     }
 }
