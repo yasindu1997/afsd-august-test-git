@@ -26,13 +26,9 @@ public class Demo {
 
         double bankBalance = 3004.87;
 
-        String name = "Oneli";
-
         boolean isSmoke = false;
 
         char mathsGrade = 'A';
-
-        System.out.println(name);
 
         /// ///////////////////////////
 
